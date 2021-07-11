@@ -1,0 +1,4 @@
+Host docker_host
+	HostName 206.189.86.191
+	User root
+	IdentityFile C:\Users\mrh\.docker\machine\machines\my-docker1\id_rsa

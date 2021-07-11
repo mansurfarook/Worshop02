@@ -1,0 +1,6 @@
+all:
+  hosts:
+    server-0:
+      ansible_host: 206.189.86.191
+      ansible_connection: ssh
+      ansible_user: "root"
